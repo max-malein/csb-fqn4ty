@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://max-malein.github.io/csb-fqn4ty/static/css/main.39147a64.chunk.css",
+    "main.js": "https://max-malein.github.io/csb-fqn4ty/static/js/main.3e1f1258.chunk.js",
+    "main.js.map": "https://max-malein.github.io/csb-fqn4ty/static/js/main.3e1f1258.chunk.js.map",
+    "runtime-main.js": "https://max-malein.github.io/csb-fqn4ty/static/js/runtime-main.959122fd.js",
+    "runtime-main.js.map": "https://max-malein.github.io/csb-fqn4ty/static/js/runtime-main.959122fd.js.map",
+    "static/js/2.928ec374.chunk.js": "https://max-malein.github.io/csb-fqn4ty/static/js/2.928ec374.chunk.js",
+    "static/js/2.928ec374.chunk.js.map": "https://max-malein.github.io/csb-fqn4ty/static/js/2.928ec374.chunk.js.map",
+    "index.html": "https://max-malein.github.io/csb-fqn4ty/index.html",
+    "static/css/main.39147a64.chunk.css.map": "https://max-malein.github.io/csb-fqn4ty/static/css/main.39147a64.chunk.css.map",
+    "static/js/2.928ec374.chunk.js.LICENSE.txt": "https://max-malein.github.io/csb-fqn4ty/static/js/2.928ec374.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.959122fd.js",
+    "static/js/2.928ec374.chunk.js",
+    "static/css/main.39147a64.chunk.css",
+    "static/js/main.3e1f1258.chunk.js"
+  ]
+}
